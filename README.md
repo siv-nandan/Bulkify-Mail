@@ -30,17 +30,17 @@ cd Bulkify-Mail
 
 ### 2. Run the python3 scripts
 
-#For normal emails format
+For normal emails format
 
 ```python
 python3 Type-1.py
 ```
 
-#For emails with table contents
+For emails with table contents
 ```python
 python3 Type-2.py
 ```
-##🤝 **Contributing**
+🤝 **Contributing**
 We welcome contributions from developers, testers, and enthusiasts!
 
 ->Found a bug? Submit an issue!
@@ -49,7 +49,7 @@ We welcome contributions from developers, testers, and enthusiasts!
 
 ->Want to enhance HTML support or add analytics? Let’s build together.
 
-##📬 **Contact**
+📬 **Contact**
 💼 For customized email automation solutions or professional integration services, feel free to reach out:
 
 Siva Nandan R
